@@ -1,3 +1,6 @@
+https://laravel.com/docs/9.x/upgrade#updating-dependencies
+https://stackoverflow.com/questions/71103241/error-while-updating-laravel-8-to-9-script-php-artisan-packagediscover-ans
+
 # LMS-Laravel
 [![Latest Stable Version](https://poser.pugx.org/lms-laravel/lms-laravel/v/stable)](https://packagist.org/packages/lms-laravel/lms-laravel)
 [![Total Downloads](https://poser.pugx.org/lms-laravel/lms-laravel/downloads)](https://packagist.org/packages/lms-laravel/lms-laravel)
